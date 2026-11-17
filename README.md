@@ -20,7 +20,8 @@
 |---|---|---|
 | v2.0.1 | 当前版本：多源聚合搜索、央视卫视直播、账号注册/登录、会员到期提醒 | [shijie-2.0.1.apk](apk/shijie-2.0.1.apk)（4.11 MB） |
 
-也可以到 **Releases** 页面下载，方便固定链接分享。
+也可以走 Release 固定直链下载（适合分享）：
+`https://github.com/Aionara/shijie-releases/releases/download/v2.0.1/shijie-2.0.1.apk`
 
 ## 安装
 
